@@ -1,6 +1,6 @@
 ---
 title: "UMinho - Corpora/Estatística"
-author: "Henrique Arantes"
+author: "Henri"
 date: "20221015T17"
 output:
   pdf_document: default
