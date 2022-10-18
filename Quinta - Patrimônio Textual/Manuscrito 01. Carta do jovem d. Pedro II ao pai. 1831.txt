@@ -4,7 +4,7 @@
 ###  Glossário de Notação____________  ###
 ###  \n -> quebra de linha             ###
 ###  \? -> caracter indeterminado      ###
-###  \ˆ -> terminação superscrita     ###
+###  \ˆ -> terminação superscrita      ###
 ###  \> -> espaçamento extra à esq.    ###
 ###  \< -> sem espaçamento à esquerda  ###
 ##########################################
