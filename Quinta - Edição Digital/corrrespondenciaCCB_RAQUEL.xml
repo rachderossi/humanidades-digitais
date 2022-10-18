@@ -184,7 +184,7 @@
         </closer>
 
         <note>
-            <p ixml:id="Paragrafo 7">
+            <p xml:id="Paragrafo 7">
                 <l>N'este intervalo</l>
                 <lb />
                 <l>é-me dirigida a</l>
