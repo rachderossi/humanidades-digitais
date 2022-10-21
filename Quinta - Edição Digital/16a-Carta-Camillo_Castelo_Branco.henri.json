@@ -1,0 +1,1173 @@
+{
+    "attributes": [],
+    "childNodes": [
+    {
+        "teiHeader":
+        {
+            "attributes": [
+            {
+                "type": "letter"
+            },
+            {
+                "id": "16"
+            },
+            {
+                "from": "Abel Acacio"
+            },
+            {
+                "to": "Camilo Castello Branco"
+            }],
+            "childNodes": [
+            {
+                "textNode": ">"
+            },
+            {
+                "fileDesc":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "titleStmt":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "title":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "Carta 16 do espólio de Camillo Castello Branco"
+                                    }]
+                                }
+                            },
+                            {
+                                "respStmt":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "resp":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "editada por"
+                                            }]
+                                        }
+                                    },
+                                    {
+                                        "name":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "Henrique Arantes"
+                                            }]
+                                        }
+                                    }]
+                                }
+                            }]
+                        }
+                    },
+                    {
+                        "publicationStmt":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "publisher":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "pubPlace":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "date":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "media":
+                                {
+                                    "attributes": [
+                                    {
+                                        "type": "sticker"
+                                    },
+                                    {
+                                        "class": "catalogation"
+                                    }],
+                                    "childNodes": [
+                                    {
+                                        "item":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "Nº - 16 -"
+                                            }]
+                                        }
+                                    },
+                                    {
+                                        "item":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "- 1884 -"
+                                            }]
+                                        }
+                                    }]
+                                }
+                            }]
+                        }
+                    },
+                    {
+                        "sourceDesc":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "bibl":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "Carta 16 do espólio de Camillo Castello Branco, editada por Henrique Arantes (Porto, 2022)"
+                                    }]
+                                }
+                            }]
+                        }
+                    }]
+                }
+            }]
+        }
+    },
+    {
+        "text":
+        {
+            "attributes": [
+            {
+                "type": "letter"
+            },
+            {
+                "n": "16"
+            },
+            {
+                "from": "Abel Acacio"
+            },
+            {
+                "to": "Camilo Castello Branco"
+            }],
+            "childNodes": [
+            {
+                "pb":
+                {
+                    "attributes": [
+                    {
+                        "n": "1"
+                    }],
+                    "childNodes": []
+                }
+            },
+            {
+                "opener":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "choice":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "abbr":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "Ex."
+                                    },
+                                    {
+                                        "sup":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "mo"
+                                            }]
+                                        }
+                                    }]
+                                }
+                            },
+                            {
+                                "expan":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "Excelentíssimo"
+                                    }]
+                                }
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": "mestre e"
+                    },
+                    {
+                        "choice":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "abbr":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "am."
+                                    },
+                                    {
+                                        "sup":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "o"
+                                            }]
+                                        }
+                                    }]
+                                }
+                            },
+                            {
+                                "expan":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "amigo"
+                                    }]
+                                }
+                            }]
+                        }
+                    },
+                    {
+                        "placeName":
+                        {
+                            "attributes": [
+                            {
+                                "where": "Lamengo, Portugal"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "Lamego"
+                            }]
+                        }
+                    },
+                    {
+                        "date":
+                        {
+                            "attributes": [
+                            {
+                                "when": "1884-06-20"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "20/6/84"
+                            }]
+                        }
+                    }]
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Talvez que na verdade."
+                    },
+                    {
+                        "persName":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "Fialho"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "Não tivesse intenção de me beliscar;"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "a minha impressão porém, ao acabar"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "De lês-lhe o folhetim, feito de mais a"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "mais depois do meu, foi de que elle"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "era uma resposta e um desforço. E"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "porcerto não deixa de entender-se prin"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "cipalmente comigo aquele epitheto de"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "velho"
+                            }]
+                        }
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "precocisssimo"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": ", bem como a insidio"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "do meu appellido embrulhado no"
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "con"
+                            }]
+                        }
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "selheiro"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": "do"
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "primo"
+                            }]
+                        }
+                    },
+                    {
+                        "u":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "Bazilio"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": "."
+                    }]
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Não sou purista; falta-me a\n            auctoridade e o estudo. Acudo porêm por\n            elles, indiginado"
+                    }]
+                }
+            },
+            {
+                "pb":
+                {
+                    "attributes": [
+                    {
+                        "n": "2"
+                    },
+                    {
+                        "style": "page-break-after: always; break-after: page;"
+                    }],
+                    "childNodes": []
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Fêz-me intensos pruridos de cu"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "riosidade a sua communicação, respeito"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "ao tal"
+                    },
+                    {
+                        "persName":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "S. Ignacio da Silva"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": ", de quem"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "nunca li palavra. Vou procurar obter"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "alguma cousa. d'elle, e sobretudo o que a"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "caso haja que me toque pela porta."
+                    }]
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Esta minha carta hoje é par"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "ticularmente de gratidão pela ines"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "gotável bonhomia do meu amigo, sem"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "pre prompto a responder a quem tan"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "to, e tão repetido, o importuna."
+                    }]
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Ao mesmo tempo, quero apres"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "sar-me a communicar-lhes que, se a"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "caso voltar breve ao"
+                    },
+                    {
+                        "placeName":
+                        {
+                            "attributes": [
+                            {
+                                "where": "Porto, Portugal"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "Porto"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": ", se não dê"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "a canceira ce ir a"
+                    },
+                    {
+                        "placeName":
+                        {
+                            "attributes": [
+                            {
+                                "where": "Matosinhos, Portugal"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "Mattosinhos"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": "para"
+                    },
+                    {
+                        "#comment":
+                        {
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "pb":
+                        {
+                            "attributes": [
+                            {
+                                "n": "3"
+                            },
+                            {
+                                "style": "page-break-after: always; break-after: page;"
+                            }],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "me ver, porque eu retirei d'ali no"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "sabbado, a vir executar os meus traba"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "lhos de campo oficiaes, tenho anda"
+                    },
+                    {
+                        "pc":
+                        {
+                            "attributes": [
+                            {
+                                "force": "inter"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "-"
+                            }]
+                        }
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "do pelo"
+                    },
+                    {
+                        "placeName":
+                        {
+                            "attributes": [
+                            {
+                                "where": "Vouga river, Portugal"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "Vouga"
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": ", e só para meiado de"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "agosto voltarei áquella praia, a passar"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "ali à estação balnear."
+                    }]
+                }
+            },
+            {
+                "p":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "textNode": "Mas por então espero, ainda assim,"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "textNode": "Ter a honra d'uma entrevista com"
+                    },
+                    {
+                        "lb":
+                        {
+                            "attributes": [],
+                            "childNodes": []
+                        }
+                    },
+                    {
+                        "abbr":
+                        {
+                            "attributes": [
+                            {
+                                "expan": "Vossa Senhoria"
+                            }],
+                            "childNodes": [
+                            {
+                                "textNode": "V-Se."
+                            },
+                            {
+                                "sup":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "a"
+                                    }]
+                                }
+                            }]
+                        }
+                    },
+                    {
+                        "textNode": ", antes do m eu regresso à capital."
+                    }]
+                }
+            },
+            {
+                "closer":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "salute":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "Seu"
+                            },
+                            {
+                                "choice":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "abbr":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "m."
+                                            },
+                                            {
+                                                "sup":
+                                                {
+                                                    "attributes": [],
+                                                    "childNodes": [
+                                                    {
+                                                        "textNode": "to"
+                                                    }]
+                                                }
+                                            }]
+                                        }
+                                    },
+                                    {
+                                        "expan":
+                                        {
+                                            "attributes": [],
+                                            "childNodes": [
+                                            {
+                                                "textNode": "muito"
+                                            }]
+                                        }
+                                    }]
+                                }
+                            },
+                            {
+                                "textNode": "dedicado"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "e admirador"
+                            }]
+                        }
+                    },
+                    {
+                        "author":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "signed":
+                                {
+                                    "attributes": [],
+                                    "childNodes": [
+                                    {
+                                        "textNode": "Abel Acacio"
+                                    }]
+                                }
+                            }]
+                        }
+                    }]
+                }
+            },
+            {
+                "postscript":
+                {
+                    "attributes": [],
+                    "childNodes": [
+                    {
+                        "p":
+                        {
+                            "attributes": [],
+                            "childNodes": [
+                            {
+                                "textNode": "Neste intervallo"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "É-me dirigida a"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "correspondencia"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "pra Lamengo,"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "aonde venho de"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "qdo em"
+                            },
+                            {
+                                "lb":
+                                {
+                                    "attributes": [],
+                                    "childNodes": []
+                                }
+                            },
+                            {
+                                "textNode": "qdo"
+                            }]
+                        }
+                    }]
+                }
+            },
+            {
+                "pb":
+                {
+                    "attributes": [
+                    {
+                        "n": "4"
+                    },
+                    {
+                        "style": "page-break-after: always; break-after: page;"
+                    }],
+                    "childNodes": []
+                }
+            }]
+        }
+    }]
+}
