@@ -37,7 +37,8 @@ if formato == "JSON" :
 	co_autores = "\",\n\t\t\"".join(co_autor)
 	p = str("{\n\t\"título\": \"" + titulo + "\""
 		+ ",\n\t\"autor\": \"" + autor + "\""
-		+ ((",\n\t\"co-autor\": [\n\t\t\"" + (co_autores + "\"\n\t]")) if len(co_autor) else "")
+		+ ((",\n\t\"co-autor\": [\n\t\t\"" 
+		    + (co_autores + "\"\n\t]")) if len(co_autor) else "")
 		+ ("" if data == "" else ",")
 		+ (("\n\t\"data\": \"" + data + "\"") if data != "" else "")
 		+"\n}")
